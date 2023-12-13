@@ -154,7 +154,10 @@ footer img{
     mix-blend-mode: plus-lighter;
 }
 
-
+h3{
+    color: #694E2D;
+    font-weight: bold;
+}
 
 #containerFooter
 {
@@ -218,7 +221,7 @@ footer img{
 {
 content: "";
 background: orangered;
-mix-blend-mode: hard-light;
+mix-blend-mode: color-dodge;
 width: calc(100% + 18px);
 height: 0;
 position: absolute;
