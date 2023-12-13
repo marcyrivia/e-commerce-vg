@@ -1,0 +1,342 @@
+[
+    {
+        "Nom": "League Of Legends",
+        "Prix": "0€",
+        "Description": "League of Legends est un jeu en ligne compétitif et rapide qui allie la vitesse et l'intensité d'un RTS avec des éléments de RPG. Deux équipes de puissants champions s'affrontent sur plusieurs champs de bataille et modes de jeu.",
+        "Image": "LeagueOfLegends.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "100"
+    },
+    {
+        "Nom": "Dark Souls Remaster",
+        "Prix": "40€",
+        "Description": "Un action-RPG et une suite spirituelle de Demon's Souls dans lequel le joueur incarne le Chosen Undead, chargé d'accomplir une ancienne prophétie en sonnant les cloches de l'éveil",
+        "Image": "DarkSouls.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "BloodBorne",
+        "Prix": "19.99€",
+        "Description": "Un RPG d'action dans lequel le joueur incarne un Chasseur qui, après avoir reçu le sang mystérieux local de la ville de Yharnam, se lance dans une 'nuit de la Chasse'",
+        "Image": "Bloodborne.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Red Dead Redemption 2",
+        "Prix": "19.99€",
+        "Description": "Red Dead Redemption 2 est l'histoire épique du hors-la-loi Arthur Morgan et du tristement célèbre gang Van der Linde, en fuite à travers l'Amérique à l'aube de l'ère moderne.",
+        "Image": "RedDeadRedemption.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Grand Theft Auto V",
+        "Prix": "29.99€",
+        "Description": "Grand Theft Auto V met en scène trois criminels interconnectés qui effectuent des braquages audacieux à Los Santos, une vaste métropole fictive inspirée de Los Angeles.",
+        "Image": "GTAV.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "The Evil Within 1",
+        "Prix": "24.99€",
+        "Description": "The Evil Within est un survival horror à la troisième personne dans lequel le détective Sebastian Castellanos enquête sur une série de meurtres mystérieux et se retrouve piégé dans un monde cauchemardesque.",
+        "Image": "TheEvilWithin.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1000"
+    },
+    {
+        "Nom": "Hi-Fi Rush",
+        "Prix": "14.99€",
+        "Description": "Hi-Fi Rush est un jeu de course effréné avec une bande-son énergique. Les joueurs peuvent personnaliser leurs véhicules et affronter d'autres pilotes dans des courses palpitantes à travers des environnements variés.",
+        "Image": "HiFiRush.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "800"
+    },
+    {
+        "Nom": "The Last of Us 1",
+        "Prix": "34.99€",
+        "Description": "The Last of Us est un jeu d'action-aventure se déroulant dans un monde post-apocalyptique. Il suit Joel et Ellie, deux survivants, alors qu'ils voyagent à travers des environnements dangereux et affrontent des menaces hostiles.",
+        "Image": "TheLastOfUs.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1200"
+    },
+    {
+        "Nom": "Uncharted 4",
+        "Prix": "39.99€",
+        "Description": "Uncharted 4: A Thief's End suit Nathan Drake, le chasseur de trésors, dans sa dernière aventure épique à travers le monde. Le jeu combine l'action, l'exploration et le récit cinématographique propre à la série Uncharted.",
+        "Image": "Uncharted4.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1000"
+    },
+    {
+        "Nom": "Cyberpunk 2077",
+        "Prix": "49.99€",
+        "Description": "Cyberpunk 2077 est un jeu de rôle en monde ouvert se déroulant dans la ville futuriste de Night City. Les joueurs incarnent V, un mercenaire en quête d'immortalité, et explorent un monde riche en intrigue et en danger.",
+        "Image": "Cyberpunk2077.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "800"
+    },
+    {
+        "Nom": "The Witcher III",
+        "Prix": "29.99€",
+        "Description": "The Witcher III: Wild Hunt est un RPG d'action épique dans lequel Geralt de Riv, le chasseur de monstres, poursuit sa quête pour retrouver sa fille adoptive, Ciri, tout en affrontant des créatures mythiques et des ennemis redoutables.",
+        "Image": "TheWitcherIII.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1200"
+    },
+    {
+        "Nom": "The Legend of Zelda: Twilight Princess",
+        "Prix": "39.99€",
+        "Description": "The Legend of Zelda: Twilight Princess est un jeu d'action-aventure où Link se transforme en loup-garou pour sauver le royaume du crépuscule. Il explore des donjons, résout des énigmes et combat des ennemis dans une quête épique.",
+        "Image": "ZeldaTwilightPrincess.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1000"
+    },
+    {
+        "Nom": "Super Mario Bros. Wii",
+        "Prix": "19.99€",
+        "Description": "Super Mario Bros. Wii propose une aventure de plateforme classique où Mario et ses amis doivent sauver la princesse Peach du méchant Bowser. Les joueurs peuvent jouer en solo ou en multijoueur avec jusqu'à quatre joueurs.",
+        "Image": "SuperMarioBrosWii.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "7"
+    },
+    {
+        "Nom": "Halo Infinite",
+        "Prix": "59.99€",
+        "Description": "Halo Infinite est un jeu de tir à la première personne de la franchise Halo. Les joueurs incarnent le Master Chief dans une nouvelle aventure épique contre les forces du Covenant et découvrent de nouveaux mondes.",
+        "Image": "HaloInfinite.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "3",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Halo: The Master Chief Collection",
+        "Prix": "49.99€",
+        "Description": "Halo: The Master Chief Collection propose une compilation des principaux titres de la série Halo remasterisés pour les nouvelles plateformes. Les joueurs peuvent revivre les moments clés de l'histoire du Master Chief.",
+        "Image": "HaloMCC.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Minecraft",
+        "Prix": "26.99€",
+        "Description": "Minecraft est un jeu de construction et d'aventure où les joueurs explorent un monde ouvert, récoltent des ressources et construisent des structures. Le jeu offre une créativité infinie et la possibilité de jouer en mode survie ou créatif.",
+        "Image": "Minecraft.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Minecraft Dungeons",
+        "Prix": "19.99€",
+        "Description": "Minecraft Dungeons est un jeu d'action-aventure inspiré de l'univers Minecraft. Les joueurs explorent des donjons générés de manière aléatoire, combattent des monstres et collectent des trésors dans un style coopératif.",
+        "Image": "MinecraftDungeons.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "The Elder Scrolls V: Skyrim",
+        "Prix": "39.99€",
+        "Description": "The Elder Scrolls V: Skyrim est un RPG en monde ouvert épique. Les joueurs explorent la province de Skyrim, accomplissent des quêtes, maîtrisent des compétences et se lancent dans des aventures épiques.",
+        "Image": "Skyrim.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "5",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Fallout 4",
+        "Prix": "29.99€",
+        "Description": "Fallout 4 est un RPG post-apocalyptique où les joueurs explorent les terres désolées de Boston. Avec une histoire captivante, des choix moraux et la possibilité de construire des colonies, le jeu offre une expérience immersive.",
+        "Image": "Fallout4.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "3",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Call of Duty: Warzone",
+        "Prix": "0.00€",
+        "Description": "Warzone est un jeu de tir battle royale gratuit. Les joueurs s'affrontent dans une carte immense.",
+        "Image": "Warzone.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "1",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "World of Warcraft",
+        "Prix": "14.99€",
+        "Description": "World of Warcraft est un MMORPG où les joueurs explorent le monde d'Azeroth, accomplissent des quêtes, combattent des monstres et interagissent avec d'autres joueurs. Avec des extensions régulières, le jeu offre une expérience persistante.",
+        "Image": "WoW.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "4",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Assassin's Creed Valhalla",
+        "Prix": "49.99€",
+        "Description": "Assassin's Creed Valhalla transporte les joueurs dans l'âge des Vikings. Ils incarnent Eivor, un guerrier viking, explorant l'Angleterre, construisant des colonies et participant à des combats épiques.",
+        "Image": "ACValhalla.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "1",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Far Cry 6",
+        "Prix": "59.99€",
+        "Description": "Far Cry 6 plonge les joueurs dans une île tropicale sous le joug d'un dictateur. En tant que résistant, ils doivent utiliser des tactiques guérilla, recruter des alliés et libérer la nation de l'oppression.",
+        "Image": "FarCry6.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Note": "3",
+        "Stock": "1300"
+    },
+    {
+        "Nom": "BioShock Infinite",
+        "Prix": "29.99€",
+        "Description": "BioShock Infinite est un FPS immersif où les joueurs explorent la ville flottante de Columbia. Avec une histoire complexe, des pouvoirs surnaturels et des choix moraux, le jeu offre une expérience narrative captivante.",
+        "Image": "BioShockInfinite.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "System Shock",
+        "Prix": "19.99€",
+        "Description": "System Shock est un classique de la science-fiction qui a inspiré de nombreux jeux modernes. Les joueurs se battent contre une intelligence artificielle défaillante à bord d'une station spatiale cyberpunk, résolvant des énigmes et améliorant leurs compétences.",
+        "Image": "SystemShock.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Dishonored 2",
+        "Prix": "39.99€",
+        "Description": "Dishonored 2 offre une expérience d'infiltration dans un monde steampunk. Les joueurs peuvent choisir entre deux personnages avec des pouvoirs surnaturels, tandis qu'ils se vengent dans une ville dystopique.",
+        "Image": "Dishonored2.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Prey",
+        "Prix": "29.99€",
+        "Description": "Prey plonge les joueurs dans un thriller de science-fiction où la station spatiale Talos I est envahie par des extraterrestres. Avec des pouvoirs et des armes, ils doivent survivre et résoudre les mystères de l'invasion extraterrestre.",
+        "Image": "Prey2017.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Monster Hunter: World",
+        "Prix": "39.99€",
+        "Description": "Monster Hunter: World invite les joueurs à chasser des monstres épiques dans des environnements ouverts. Avec des armes variées, une personnalisation poussée et un multijoueur coopératif, le jeu offre une expérience de chasse captivante.",
+        "Image": "MonsterHunterWorld.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Resident Evil Village",
+        "Prix": "49.99€",
+        "Description": "Resident Evil Village est un survival horror où les joueurs incarnent Ethan Winters explorant un village mystérieux. Avec des horreurs surnaturelles, des énigmes et des combats intenses, le jeu offre une expérience terrifiante.",
+        "Image": "ResidentEvilVillage.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "A Way Out",
+        "Prix": "29.99€",
+        "Description": "A Way Out est un jeu d'action-aventure en coopération où deux joueurs s'échappent d'une prison et se lancent dans une aventure palpitante. Les joueurs doivent coopérer étroitement pour surmonter les obstacles et atteindre la liberté.",
+        "Image": "AWayOut.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "It Takes Two",
+        "Prix": "39.99€",
+        "Description": "It Takes Two est un jeu d'aventure coopératif qui suit les aventures de deux poupées vivantes, Cody et May. Avec des énigmes créatives et des environnements uniques, le jeu offre une expérience coopérative unique.",
+        "Image": "ItTakesTwo.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Valorant",
+        "Prix": "0€",
+        "Description": "Valorant est un jeu de tir tactique 5v5 basé sur des personnages et se déroulant sur la scène mondiale. Déjouez, surpassez et éclipsez vos concurrents grâce à des capacités tactiques, un jeu de tir précis et un travail d'équipe adaptatif.",
+        "Image": "Valorant.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1300"
+    },
+    {
+        "Nom": "Divinity: Original Sin 2",
+        "Prix": "39.99€",
+        "Description": "Divinity: Original Sin 2 est un RPG isométrique à monde ouvert avec un système de combat tactique au tour par tour. Les joueurs explorent un monde riche en histoires, prennent des décisions cruciales et forment des alliances.",
+        "Image": "DivinityOriginalSin2.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1000"
+    },
+    {
+        "Nom": "Baldur's Gate III",
+        "Prix": "49.99€",
+        "Description": "Baldur's Gate III est un jeu de rôle basé sur Donjons et Dragons. Les joueurs se lancent dans une aventure épique, rencontrent des créatures fantastiques et découvrent des mystères dans le monde de Dungeons & Dragons.",
+        "Image": "BaldursGateIII.jpg",
+        "Catégorie": "Solo\/Multijoueur",
+        "Avis": null,
+        "Note": null,
+        "Stock": "1000"
+    }
+]
