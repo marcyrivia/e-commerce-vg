@@ -1,18 +1,4 @@
-[
-    {
-        "type": "header",
-        "version": "5.2.1",
-        "comment": "Export to JSON plugin for PHPMyAdmin"
-    },
-    {
-        "type": "database",
-        "name": "jeuxvideos"
-    },
-    {
-        "type": "table",
-        "name": "games",
-        "database": "jeuxvideos",
-        "data": [
+ [
             {
                 "Nom": "League Of Legends",
                 "Prix": "0€",
@@ -422,5 +408,4 @@
                 "Plateforme": "Playstation\/PC"
             }
         ]
-    }
-]
+  
