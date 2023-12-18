@@ -1,0 +1,149 @@
+
+
+.card {
+    display: flex;
+    width: 150vh;
+    height: 60vh;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.image-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.image-container img {
+    width: 41vh;
+    border-radius: 8px;
+}
+
+.details-container {
+    flex: 1;
+    padding: 2vh;
+    text-align: left;
+}
+
+.details-container h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.details-container p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.details-container p.price {
+    color: #000000;
+    font-weight: bold;
+}
+
+.details-container p.studio {
+    color: #4caf50;
+}
+
+.details-container p.platform {
+    color: #2196f3;
+}
+
+.details-container button.add-to-cart-btn {
+    background-color: #0e83bd;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.details-container button.add-to-cart-btn:hover {
+    background-color: #45a049;
+}
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: auto;
+}
+
+.header-container{
+    background-color: red;
+    display: flex;
+    width: 100%;
+    height: 3rem;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3px;
+}
+
+#search{
+    
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+li{
+    list-style: none;
+    margin-left: 3rem;
+}
+
+.profil-list{
+    display: flex;
+    margin-right: 3rem;
+    font-size: 1.5rem ;
+}
+
+.details-container button.view-reviews-btn {
+    background-color: #2196f3;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+}
+
+.details-container button.view-reviews-btn:hover {
+    background-color: ##0e83bd;
+}
+
+.details-container .reviews-container {
+    display: none;
+    margin-top: 10px;
+}
+
+.details-container .reviews-container p {
+    color: #333;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 8px;
+}
