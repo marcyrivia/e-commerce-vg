@@ -15,7 +15,7 @@ if (cart.length > 0) {
         gameElement.classList.add('cart-item');
 
         
-        gameElement.innerHTML = '<p>' + gameDetails.nom + '</p><p>' + gameDetails.prix + '</p>';
+        gameElement.innerHTML =  '<p>' + gameDetails.nom + '</p><p>' + gameDetails.prix + '</p>';
         
 
         
