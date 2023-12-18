@@ -35,23 +35,32 @@ if (!gameId) {
                 card.appendChild(detailsDiv);
 
                 gameDetailsContainer.appendChild(card);
+
+                
+                const addToCartBtn = document.querySelector('.add-to-cart-btn');
+                addToCartBtn.addEventListener('click', () => {
+                    const gameDetails = {
+                        id: gameId,
+                        nom: document.querySelector('.details-container h2').textContent,
+                        prix: document.querySelector('.details-container .price').textContent,
+                        
+                    };
+
+                    let cart = JSON.parse(localStorage.getItem('cart')) || [];
+
+                    const existingGame = cart.find(item => item.id === gameDetails.id);
+
+                    if (existingGame) {
+                        alert('Ce jeu est déjà dans votre panier.');
+                    } else {
+                        cart.push(gameDetails);
+                        localStorage.setItem('cart', JSON.stringify(cart));
+                        alert('Le jeu a été ajouté au panier !');
+                    }
+                });
             } else {
                 window.location.href = 'index.html';
             }
         });
 }
 
-
-const viewReviewsBtn = detailsDiv.querySelector('.view-reviews-btn');
-const reviewsContainer = detailsDiv.querySelector('.reviews-container');
-
-viewReviewsBtn.addEventListener('click', () => {
-    if (game.Avis && game.Avis.length > 0) {
-        const reviewsHTML = game.Avis.map(review => `<p>${review}</p>`).join('');
-        reviewsContainer.innerHTML = reviewsHTML;
-        reviewsContainer.style.display = 'block';
-    } else {
-        reviewsContainer.innerHTML = '<p>Aucun avis disponible.</p>';
-        reviewsContainer.style.display = 'block';
-    }
-});
